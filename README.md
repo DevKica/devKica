@@ -28,6 +28,12 @@
 
 </p>   
 
+<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+
 <p align="center">
-  to the moon 🚀🚀  
+
+<a href="mailto: devKica777@gmail.com">
+    <img src="https://img.shields.io/badge/-devKica777-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
+</a>
+   
 </p>
