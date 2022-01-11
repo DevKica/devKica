@@ -1,4 +1,7 @@
-## Hello everyone 💻
+<h2 align="center">
+      Hello everyone 💻
+</h2>
+    
 
 1. **I'm currently working on: 🔭**
 
@@ -17,8 +20,14 @@
         - amazon web services
 2. **Technologies: 📈**
 
+      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=devKica&langs_count=3&layout=compact&theme=dark">
 
+<p align = "center">
+      
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=devKica&custom_title=DevKica's%20Contribution%20Graph&hide_border=true&theme=react-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devKica&langs_count=3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>   
 
-to the moon 🚀🚀
+<p align="center">
+  to the moon 🚀🚀  
+</p>
