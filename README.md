@@ -4,7 +4,7 @@
 
 1. **👨‍💻 My name is Paweł and I am 19. Currently I study cybersecurity at the AGH University of Science and Technology in Cracow.**
 
-2. **🔭 I'm currently working on:**
+2. **🔭 Despite my studies, I work on:**
 
       - Developing full stack applications with: 🗼
         - client: 
