@@ -24,9 +24,11 @@
       <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=devKica&langs_count=3&layout=compact&theme=dark">
 
 <p align = "center">
-      
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=devKica&custom_title=DevKica's%20Contribution%20Graph&hide_border=true&theme=react-dark)
 
+ <!-- 
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=devKica&custom_title=DevKica's%20Contribution%20Graph&hide_border=true&theme=react-dark)
+-->
+      
 </p>   
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
