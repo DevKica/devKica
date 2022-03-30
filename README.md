@@ -29,12 +29,8 @@
       
 </p>   
 
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
-
+<h2 align="center">Reach me out on 
+      <a href="mailto: devKica777@gmail.com">
+      <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+      </a>
 <p align="center">
-
-<a href="mailto: devKica777@gmail.com">
-    <img src="https://img.shields.io/badge/-devKica777-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devKica777@gmail.com"/>
-</a>
-   
-</p>
