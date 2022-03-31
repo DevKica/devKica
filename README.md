@@ -26,15 +26,9 @@
 
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=devKica&custom_title=DevKica's%20Contribution%20Graph&hide_border=true&theme=react-dark)
 
-</p>
-<div style="display:flex; justify-content:center; align-items:center" >
-<h2 style="margin-right:5px">Reach me out on 
-</h2>
-<div>
+<div align="center">
+<h2 align="center">Reach me out on </h2>
 <a href="mailto: devKica777@gmail.com">
 <img src="images/icons8-gmail-48.png" width="30">
 </a>
-</div>
-</div>
-   
-</p>
+
