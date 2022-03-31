@@ -18,8 +18,23 @@
 
 ---
 
-<h2 align="center">Reach me out on 
-      <a href="mailto: devKica777@gmail.com">
-      <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
-      </a>
-<p align="center">
+**📈 Technologies:**
+
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=devKica&langs_count=3&layout=compact&theme=dark">
+
+<p align = "center">
+
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=devKica&custom_title=DevKica's%20Contribution%20Graph&hide_border=true&theme=react-dark)
+
+</p>
+<div style="display:flex; justify-content:center; align-items:center" >
+<h2 style="margin-right:5px">Reach me out on 
+</h2>
+<div>
+<a href="mailto: devKica777@gmail.com">
+<img src="images/icons8-gmail-48.png" width="30">
+</a>
+</div>
+</div>
+   
+</p>
