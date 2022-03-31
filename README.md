@@ -2,39 +2,39 @@
       Hello everyone 💻
 </h2>
 
-1. **👨‍💻 My name is Paweł and I am 19. Currently I study cybersecurity at the AGH University of Science and Technology in Cracow.**
+---
 
-2. **🔭 Despite my studies, I work on:**
+🏫 My name is **Paweł** and I currently study **cybersecurity** at the AGH University of Science and Technology in Cracow.
 
-      - Developing full stack applications with: 🗼
-        - client: 
-          - react.js
-          - material UI
-        - server: 
-          - express.js
-          - mongoDb with mongoose or postgreSQL with prisma
-        - ofc all in typescript 💘
-      - Expanding my knowledge in: 📚
-        - designing highly scalable database architectures
-        - cybersecurity
-        - docker
-        - amazon web services
-3. **📈 Technologies:**
+👨‍💻 However, I spend most of my time developing **full stack web applications**.
 
-      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=devKica&langs_count=3&layout=compact&theme=dark">
+⌨️ I love programming application logic in the **backend area** and designing **highly scalable database architectures**. In most of my projects I used **Node.js** with **Express** and **Typescript**. I have never came across any limitations caused by using these technologies. **For now** they are completely sufficient for my projects, although **I am open to learn about new frameworks and technologies**.
+
+🖱️ When it comes to **frontend** technologies, I mostly use **plain React** (also in **Typescript**), but in the future I will definitely take a closer look at **Next.js**.
+
+📇 The two main databases I use depending on my needs are **PostgreSQL with prisma** and **MongoDB with mongoose**.
+
+🛫 In the **future**, I would like to expand my knowledge with tools such as **Docker** and **Amazon Web Services**.
+
+---
+
+**📈 Technologies:**
+
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=devKica&langs_count=3&layout=compact&theme=dark">
 
 <p align = "center">
 
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=devKica&custom_title=DevKica's%20Contribution%20Graph&hide_border=true&theme=react-dark)
-      
-</p>   
 
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
-
-<p align="center">
-
+</p>
+<div style="display:flex; justify-content:center; align-items:center" >
+<h2 style="margin-right:5px">Reach me out on 
+</h2>
+<div>
 <a href="mailto: devKica777@gmail.com">
-    <img src="https://img.shields.io/badge/-devKica777-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devKica777@gmail.com"/>
+<img src="images/icons8-gmail-48.png" width="30">
 </a>
+</div>
+</div>
    
 </p>
