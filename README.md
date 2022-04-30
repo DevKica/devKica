@@ -16,10 +16,11 @@
 
 🛫 In the **future**, I would like to expand my knowledge with tools such as **Docker** and **Amazon Web Services**.
 
+<!-- 
 📱  One of my main projects was an app to calculate remunerations for employees of the restaurant where I was working: [nstaff](https://github.com/DevKica/nstaff-client)
 
 😊 Currently I work on "unicorn", I haven't come up with a name yet: [unicorn](https://github.com/DevKica/unicorn)
-
+ -->
 ---
 
 **📈 Technologies:**
