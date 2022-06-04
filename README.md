@@ -6,7 +6,7 @@
 
 🏫 My name is **Paweł** and I currently study **cybersecurity** at the AGH University of Science and Technology in Cracow.
 
-👨‍💻 However, I spend most of my time ~~developing full stack web applications~~ working as Node.js backend developer.
+👨‍💻 However, I spend most of my time working as Node.js backend developer.
 
 ⌨️ As I said, I specialize in the **backend (Node.js with typescript), security and databases** area. I mainly was using express, currently I've switched to [**Nest**](https://nestjs.com/).
 
