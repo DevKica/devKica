@@ -20,11 +20,10 @@
 😊 Currently I work on "unicorn", I haven't come up with a name yet: [unicorn](https://github.com/DevKica/unicorn)
  -->
 ---
-
+<!-- 
 **📈 Technologies:**
-
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=devKica&langs_count=3&layout=compact&theme=dark">
-  
+-->  
 <div align = "center">
 <!-- 
 ![typeorm](https://img.shields.io/badge/Typeorm-262627.svg?style=for-the-badge&logo=Typeform&logoColor=white) ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
