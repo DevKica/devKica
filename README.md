@@ -32,7 +32,7 @@
 
 <div align="center">
 <h2 align="center">Reach me out on </h2>
-<a href="mailto: devKica777@gmail.com">
+<a href="mailto: pawel.kica.cc@gmail.com">
 <img src="images/icons8-gmail-48.png" width="30">
 </a>
 </div>
