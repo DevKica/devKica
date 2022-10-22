@@ -14,26 +14,23 @@
 
 🖱️ When it comes to **frontend** technologies, I mostly use **plain React** (also in **Typescript**), but in the future I will definitely take a closer look at **Next.js**.
 
-<!-- 
-📱  One of my main projects was an app to calculate remunerations for employees of the restaurant where I was working: [nstaff](https://github.com/DevKica/nstaff-client)
-
-😊 Currently I work on "unicorn", I haven't come up with a name yet: [unicorn](https://github.com/DevKica/unicorn)
- -->
 ---
-<!-- 
-**📈 Technologies:**
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=devKica&langs_count=3&layout=compact&theme=dark">
--->  
-<div align = "center">
-<!-- 
-![typeorm](https://img.shields.io/badge/Typeorm-262627.svg?style=for-the-badge&logo=Typeform&logoColor=white) ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
- -->
-</div>
-
 <div align="center">
 <h2 align="center">Reach me out on </h2>
-<a href="mailto: pawel.kica.cc@gmail.com">
-<img src="images/icons8-gmail-48.png" width="30">
-</a>
+   <a href="mailto: pawel.kica.cc@gmail.com">      
+       <img src="images/icons8-gmail-48.png" width="30">
+   </a>
+<!---
+   ![typeorm](https://img.shields.io/badge/Typeorm-262627.svg?style=for-the-badge&logo=Typeform&logoColor=white) 
+    
+   ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+   ![Using technologies distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawel-Kica&langs_count=4&layout=compact&theme=dracula&hide_border=true)
+   
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pawel-Kica&show_icons=true&hide_border=true&theme=dracula&count_private=true) 
+   [![Streaks](https://github-readme-streak-stats.herokuapp.com?user=Pawel-Kica&theme=dracula&border=DD272700)](https://git.io/streak-stats)
+   
+   ![Commits stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pawel-Kica&theme=dracula)
+-->
 </div>
 
