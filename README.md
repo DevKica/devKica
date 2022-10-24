@@ -1,18 +1,6 @@
-<h2 align="center">
-      Hello everyone 💻
-</h2>
-
----
-
-🏫 My name is **Paweł** and I currently study **cybersecurity** at the AGH University of Science and Technology in Cracow.
-
-👨‍💻 However, I spend most of my time working as Node.js backend developer.
-
-⌨️ As I said, I specialize in the **backend (Node.js with typescript), security and databases** area. I mainly was using express, currently I've switched to [**Nest**](https://nestjs.com/).
-
-📇 The two main databases I use depending on my needs are **PostgreSQL with prisma** and **MongoDB with mongoose**.
-
-🖱️ When it comes to **frontend** technologies, I mostly use **plain React** (also in **Typescript**), but in the future I will definitely take a closer look at **Next.js**.
+<h3 align="center">
+      eat, sleep, code, repeat
+</h3>
 
 ---
 <div align="center">
@@ -23,6 +11,7 @@
    [![Streaks](https://github-readme-streak-stats.herokuapp.com?user=Pawel-Kica&theme=dracula&border=DD272700)](https://git.io/streak-stats)
    
    ![Commits stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pawel-Kica&theme=dracula)
+      
 <h2 align="center">Reach me out on </h2>
    <a href="mailto: pawel.kica.cc@gmail.com">      
        <img src="images/icons8-gmail-48.png" width="30">
